@@ -16,9 +16,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Things To be taken into consideration :
 
-1. We have used 'typeit' package of npm for the auto-typing feature. 
+1. I have used 'typeit' package of npm for the auto-typing feature. 
 
-2. We have also used some external js files for animation and parallax , carousel effect and called them according to the 
+2. I have also used some external js files for animation and parallax , carousel effect and called them according to the 
    angular standard. 
    
 3. For the Form, I have used 'typeform/embed' package of npm . This is a typeform pacakage available in angular .
