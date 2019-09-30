@@ -2,26 +2,33 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
-## Development server
+## Steps to run the project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Do Git Clone using cmd : git clone https://github.com/ketanp-iprogrammer/angular-bajaj-test.git 
 
-## Code scaffolding
+2. cd angular-bajaj-test
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+3. Then run this cmd : npm install 
 
-## Build
+4. And finally run this cmd : ng serve 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+5. open your browser now, and hit this url : localhost:4200 
 
-## Running unit tests
+## Things To be taken into consideration :
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. We have used 'typeit' package of npm for the auto-typing feature. 
 
-## Running end-to-end tests
+2. We have also used some external js files for animation and parallax , carousel effect and called them according to the 
+   angular standard. 
+   
+3. For the Form, I have used 'typeform/embed' package of npm . This is a typeform pacakage available in angular .
+   I have created my custom typeform according to the requirement, and integrated it with the angular. 
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+4. I have also implemented Lazy Loading for all the routes.
 
-## Further help
+5. I have also created, Wild Card Route as error component.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+
